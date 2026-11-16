@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+wandb/
+unsloth_compiled_cache/
+*.safetensors
+*.pt
+*.pth
+*.bin
